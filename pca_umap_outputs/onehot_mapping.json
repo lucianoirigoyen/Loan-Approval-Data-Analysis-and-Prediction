@@ -1,0 +1,20 @@
+{
+  "occupation_status": [
+    "Employed",
+    "Self-Employed",
+    "Student"
+  ],
+  "product_type": [
+    "Credit Card",
+    "Line of Credit",
+    "Personal Loan"
+  ],
+  "loan_intent": [
+    "Business",
+    "Debt Consolidation",
+    "Education",
+    "Home Improvement",
+    "Medical",
+    "Personal"
+  ]
+}

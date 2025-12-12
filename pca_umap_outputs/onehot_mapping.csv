@@ -1,0 +1,13 @@
+orig_col,category,ohe_col
+occupation_status,Employed,occupation_status__Employed
+occupation_status,Self-Employed,occupation_status__Self-Employed
+occupation_status,Student,occupation_status__Student
+product_type,Credit Card,product_type__Credit Card
+product_type,Line of Credit,product_type__Line of Credit
+product_type,Personal Loan,product_type__Personal Loan
+loan_intent,Business,loan_intent__Business
+loan_intent,Debt Consolidation,loan_intent__Debt Consolidation
+loan_intent,Education,loan_intent__Education
+loan_intent,Home Improvement,loan_intent__Home Improvement
+loan_intent,Medical,loan_intent__Medical
+loan_intent,Personal,loan_intent__Personal
